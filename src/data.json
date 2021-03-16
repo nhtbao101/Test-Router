@@ -1,0 +1,38 @@
+[
+    {
+        "id": "0",
+        "name": "Hoàng Ngọc Huyền",
+        "description": "Beautiful - Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+        "img": "./contants/1.jpg"
+    }
+    , {
+        "id": 1,
+        "name": "Nguyễn Hà Giang",
+        "description": "Beautiful - Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+        "img": "./contants/2.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Trần Thanh Mai",
+        "description": "Beautiful - Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+        "img": "./contants/3.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Dương Ngọc Thanh",
+        "description": "Beautiful - Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+        "img": "./contants/4.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Nguyễn Khả Như",
+        "description": "Beautiful - Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+        "img": "./contants/5.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Lê Kiều Trang",
+        "description": "Beautiful - Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+        "img": "../../contants/6.jpg"
+    }
+]

@@ -1,0 +1,45 @@
+.container__news{
+    width: 100%;
+    margin: auto;    
+}
+
+
+.container__news__content{
+    width: 100%;
+    margin: auto;
+}
+
+.title_news{
+    text-align: center;
+    font-size: 5rem;
+    color:slateblue;
+}
+
+.ant-row > a{
+    width: 100%;
+}
+
+.ant-col{
+    width: 100%;
+    margin: 2rem;
+}
+
+.img_g{    
+    height: auto;  
+    
+}
+
+p{
+    padding-top: 1rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+img{
+    width: 100%;
+}
+
+.name{
+    font-size: 2rem;
+    text-align: center;
+    margin: 2%;
+}
